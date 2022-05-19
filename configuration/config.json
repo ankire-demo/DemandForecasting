@@ -2,4 +2,5 @@
     "subscription_id": "f7407583-e485-4d87-a3aa-8cc1854380cd",
     "resource_group": "Ankire-WTH-MLOps",
     "workspace_name": "ankire-workspace"
+    "location": "northeurope"
 }
